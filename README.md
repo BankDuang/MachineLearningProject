@@ -1,2 +1,2 @@
 # MachineLearningProject
-Example of my machine learning project
+My data science project
