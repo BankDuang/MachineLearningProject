@@ -1,2 +1,2 @@
 # MachineLearningProject
-Collection of my machine learning project
+Example of my machine learning project
