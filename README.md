@@ -1,2 +1,2 @@
-# MachineLearningProject
-My data science project
+# Wisarut Duangmorakot - wisarut.bank@gmail.com
+My Data Science Project
